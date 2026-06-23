@@ -32,8 +32,6 @@ src="https://img.shields.io/github/followers/vaishnavimaurya111?logo=github&styl
 
 ## Contribution Snake
 
-## Contribution Snake
-
 ![Snake animation](https://github.com/vaishnavimaurya111/vaishnavimaurya111/blob/output/github-snake.svg)
 
 ### Badges
