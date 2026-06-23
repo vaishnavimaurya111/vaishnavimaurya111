@@ -1,12 +1,12 @@
 ## Hi there 👋
  
- !--Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vaishnavi Maurya
+ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vaishnavi Maurya
 =========================================================================================================================================
 
-Full Stack Developer
+Full Stack Developer/ UI & UX Designer
 --------------------
 
-Motivated second-year Computer Science student at the University of Lucknow with a strong interest in software
+Motivated Third-year Computer Science student at the University of Lucknow with a strong interest in software
 
 development . Passionate about Java, UI/UX design, and Full stack developer(MERN). Focused on building
 
