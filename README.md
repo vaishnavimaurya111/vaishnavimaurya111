@@ -30,16 +30,11 @@ and projects
 <a href="https://www.github.com/vaishnavimaurya111" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vaishnavimaurya111?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+## Contribution Snake
+
+## Contribution Snake
+
+![Snake animation](https://github.com/vaishnavimaurya111/vaishnavimaurya111/blob/output/github-snake.svg)
 
 ### Badges
 
