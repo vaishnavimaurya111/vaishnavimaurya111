@@ -15,9 +15,9 @@ user-friendly applications while continuously improving technical and design ski
 and projects.
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif">
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [vaishnavimaurya3@gmail.com](mailto:vaishnavimaurya3@gmail.com)
-* 🧠  I'm currently learning DSA
+* 🌍  I'm based in India.
+* ✉️  You can contact me at [vaishnavimaurya3@gmail.com](mailto:vaishnavimaurya3@gmail.com).
+* 🧠  I'm currently learning DSA.
 * 👥  I'm looking to collaborate on Open source.
 * 💬  Ask me about Late night coding.
 
