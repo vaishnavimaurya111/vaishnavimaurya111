@@ -19,7 +19,7 @@ and projects.
 * ✉️  You can contact me at [vaishnavimaurya3@gmail.com](mailto:vaishnavimaurya3@gmail.com).
 * 🧠  I'm currently learning DSA.
 * 👥  I'm looking to collaborate on Open source.
-* 💬  Ask me about Late night coding.
+*  Intern @Toddle.
 
 --------------------
 ### Skills
